@@ -5,5 +5,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/drigomatts/)
 [![Guns.Lol](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](https://guns.lol/1blendxsz)
 
-![Drigomatts GitHub stats](https://github-readme-stats.vercel.app/api?username=Drigomatts&show_icons=true)
+![DrigoMatts GitHub stats](https://github-readme-stats.vercel.app/api?username=DrigoMatts&show_icons=true&theme=radic
+
 
