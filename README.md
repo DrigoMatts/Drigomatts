@@ -18,7 +18,7 @@
 
 ![DrigoMatts GitHub stats](https://github-readme-stats.vercel.app/api?username=DrigoMatts&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DrigoMatts&hide_progress=true)
 
 ## ⚙ IDE's ## 
 <div style="display: inline block">
