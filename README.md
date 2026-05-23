@@ -7,19 +7,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drigomatts" alt="drigomatts" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/drigo (rodrigo) matts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drigo (rodrigo) matts" height="30" width="40" /></a>
-<a href="https://instagram.com/drigomatts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drigomatts" height="30" width="40" /></a>
-</p>
+## 📊 GitHub Stats ##
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drigomatts&show_icons=true&locale=en&layout=compact" alt="drigomatts" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=drigomatts&show_icons=true&locale=en" alt="drigomatts" /></p>
+## 💻 Tech Stack #
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drigomatts&" alt="drigomatts" /></p>
-
-## STACKS 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -31,6 +23,21 @@
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
 </div>
+
+
+## Social Media ##
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/drigo (rodrigo) matts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drigo (rodrigo) matts" height="30" width="40" /></a>
+<a href="https://instagram.com/drigomatts" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drigomatts" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drigomatts&" alt="drigomatts" /></p>
+
 
 
 
