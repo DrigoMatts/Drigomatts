@@ -54,13 +54,13 @@
 
 </div>  
 
-## Database's 
+## 🏦 Database's 
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
 
 </div>
 
-## API's
+## 🔧 API's
 <div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
