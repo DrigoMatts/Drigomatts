@@ -1,88 +1,49 @@
-## Hello World🤖
+# 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm Rodrigo (DrigoDrigo)</h1>
-<h3 align="center">Desenvolvedor Backend, com conhecimentos gerais especializados em FullStack. Atualmente sou Estágiario TCE, estou finalizando faculdade de Análise e Desenvolvimento de Sistemas (ADS).</h3>
+## Hi 👋, I'm Rodrigo (DrigoDrigo)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=drigomatts&label=Profile%20views&color=0e75b6&style=flat" alt="drigomatts" /> </p>
+Desenvolvedor Backend com conhecimentos em FullStack. Atualmente sou Estagiário no TCE e cursando Análise e Desenvolvimento de Sistemas (ADS), expandindo horizontes em Segurança Cibernética.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drigomatts" alt="drigomatts" /></a> </p>
+---
 
-## 💻 Tech Stack #
+### 💻 Tech Stack
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <!-- HTML Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="55" />
-  <!-- CSS Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="55" /> 
-  <!-- JavaScript Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="Javascript" width="50" height="55" /> 
-  <!-- TypeScript Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="55" />
-  <!-- Java Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="50" height="55" />
-  <!-- Python Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="50" height="55" />
-  <!-- C++ Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="55" />
-  <!-- C Stack --> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="50" height="55" />
-  <!-- Git Stack --> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="55"/>
-  </a>
+### 🧩 Frameworks & Libraries
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
+### 🛠️ Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS%25Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrigoMatts&show_icons=true&theme=tokyonight&hide_border=true" />
 </div>
 
-## 📚Frameworks / Libraries
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-   <!-- Node.js Stack -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" alt="Node" width="50" height="55" />
-  <!-- ReactNative Stack --> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original.svg" alt="ReactNative" width="50" height="55" />
-</div>
+---
 
-## ⚙️ IDE'S 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-
-</div>
-
-## 🧩 Tools
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-
-</div>  
-
-## 🏦 Database's 
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-
-</div>
-
-## 🔧 API's
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="Raspberry Pi" width="65" height="65" />
-
-</div>
-
-## 🛠️ Systems Operating
-<div style="display: flex; justify-content: center; gap: 10px; align-items: center;">
-
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="40"/>
-  </a>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" alt="Windows" width="50" height="40" />
-
-</div>
-
-## 📊 GitHub Stats ##
-<a href="https://github.com/DrigoMatts/github-readme-stats">
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drigomatts&" alt="drigomatts" /></p>
-</a>
-
-## 📱 Social Media ##
+### 📱 Social Media ##
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/drigo-matts/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="drigo (rodrigo) matts" height="30" width="40" /></a>
@@ -96,6 +57,3 @@
  
   
 </div>
-
-          
-          
